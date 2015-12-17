@@ -26,6 +26,10 @@ Contact
 - [GitHub](https://github.com/markscripter)
 - [Twitter](https://twitter.com/markscripter)
 
+
+####Slack Channel - [Twin Cities Interactive](https://tcinteractive.slack.com/)
+  * Send invite requests to [@thejohnsmith](http://thejohnsmith.com/#contact)
+
 Other Beer.js Branches
 ----------------------
 
