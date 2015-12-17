@@ -1,4 +1,4 @@
-![Beer.js MSP](https://raw.githubusercontent.com/beerjs/msp/master/assets/beerjs-msp.svg)
+![Beer.js MSP](https://raw.githubusercontent.com/beerjs/msp/master/assets/beerjs-msp.png)
 
 Beer.js MSP
 ===================
@@ -17,6 +17,7 @@ Want to help?
 
 Pull requests welcome!
 
+NOTE: Beer.js MSP is looking for another organizer. Interested? Contact @markscripter for more information.
 
 Other Beer.js Branches
 ----------------------
