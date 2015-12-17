@@ -19,15 +19,15 @@ Pull requests welcome!
 
 NOTE: Beer.js MSP is looking for another organizer. Interested? Contact @markscripter for more information.
 
+Contact
+-------
+
+@markscripter
+- [GitHub](https://github.com/markscripter)
+- [Twitter](https://twitter.com/markscripter)
+
 Other Beer.js Branches
 ----------------------
 
 - [Map](https://github.com/beerjs/meta/blob/master/locations.geojson)
 - [Repo](https://github.com/beerjs)
-
-Contact
--------
-
-Mark Scripter
-[GitHub](https://github.com/markscripter)
-[Twitter](https://twitter.com/markscripter)
