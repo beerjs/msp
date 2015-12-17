@@ -22,9 +22,17 @@ NOTE: Beer.js MSP is looking for another organizer. Interested? Contact @markscr
 Contact
 -------
 
+@beerjs_msp
+- [GitHub](https://github.com/beerjs/msp)
+- [Twitter](https://twitter.com/beerjs_msp)
+
 @markscripter
 - [GitHub](https://github.com/markscripter)
 - [Twitter](https://twitter.com/markscripter)
+
+@thejohnsmith
+- [GitHub](https://github.com/thejohnsmith)
+- [Twitter](https://twitter.com/the_johnsmith)
 
 
 ####Slack Channel - [Twin Cities Interactive](https://tcinteractive.slack.com/)
