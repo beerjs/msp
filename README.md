@@ -35,7 +35,12 @@ Contact
 - [Twitter](https://twitter.com/the_johnsmith)
 
 
-####Slack Channel - [Twin Cities Interactive](https://tcinteractive.slack.com/)
+Slack Channel(s)
+----------------
+- [BeerJS_MSP](https://beerjsmsp.slack.com)
+  * Send invite requrest to [@markscripter](https://github.com/markscripter)
+  * Or create an [issue](https://github.com/beerjs/msp/issues)
+- [Twin Cities Interactive](https://tcinteractive.slack.com/)
   * Send invite requests to [@thejohnsmith](http://thejohnsmith.com/#contact)
 
 Other Beer.js Branches
